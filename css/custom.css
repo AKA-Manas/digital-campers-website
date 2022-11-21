@@ -1,0 +1,16 @@
+#pagelayer-col-holder,#eck3018,#fks4218,#s8m9443{
+    flex-wrap: nowrap !important;
+}
+.d_none{
+    display: none;
+}
+.read_more{
+    cursor: pointer;
+    background-color: #fff;
+    color: #3d2692;
+    border: 0px;
+}
+
+/* pagelayer-id="eck3018"
+pagelayer-id="fks4218"
+pagelayer-id="s8m9443" */
